@@ -1,0 +1,12 @@
+Oil can, 1350, 12438
+Tomato, 990, 11610
+Boost, 990, 10242
+Oil can, 864, 7614
+Oil can, 1962, 6498
+Boost, 1818, 6534
+Tomato, 1206, 5130
+Boost, 990,  4302
+Tomato, 1206, 3690
+Oil can, 1314, 3690
+Boost, 1926, 3510
+Tomato, 1422, 2322
